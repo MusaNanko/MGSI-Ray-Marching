@@ -63,7 +63,3 @@ Keys follow an AZERTY layout.
 | `Shaders/` | GLSL vertex and fragment shaders for each rendering mode |
 
 A presentation of the design (in French) is in `MGSI Projet Ray Tracing.pdf`.
-
-## Authors
-
-University project. Moussa Traoré built most of the engine.
